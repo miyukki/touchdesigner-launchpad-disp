@@ -2,7 +2,11 @@
 
 tox for displaying with Novation Launchpad
 
+### Network Example
 ![](sample.png)
+
+### Output Example
+![](sample_launchpad.jpg)
 
 ## Usage
 
